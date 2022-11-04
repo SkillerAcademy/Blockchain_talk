@@ -14,6 +14,10 @@
 
 [**Cripto Noticias**](https://www.criptonoticias.com/)
 
+## ARTÍCULOS DE INTERÉS
+
+[**¿Qué es la tecnología blockchain?**](https://www.inboundcycle.com/blog-de-inbound-marketing/blockchain-que-es-y-para-que-sirve)
+
 ## LIBROS
 
 [**Blockchain: disrupción, valor y seguridad. autor Vector ITC | Fuente: Vector ITC**](https://www.equisoft.com/resources/blockchain-a-disruptive-technology-with-the-power-to-revolutionize-financial-services-white-paper)
