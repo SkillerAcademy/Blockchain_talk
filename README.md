@@ -18,6 +18,12 @@
 
 [**¿Qué es la tecnología blockchain?**](https://www.inboundcycle.com/blog-de-inbound-marketing/blockchain-que-es-y-para-que-sirve)
 
+[**Informe de Blockchain Market Share**](https://www.marketsandmarkets.com/Market-Reports/blockchain-technology-market-90100890.html)
+
+[**Proof of work**](https://en.wikipedia.org/wiki/Proof_of_work)
+
+[**Proof of authority**](https://en.wikipedia.org/wiki/Proof_of_authority)
+
 ## LIBROS
 
 [**Blockchain: disrupción, valor y seguridad. autor Vector ITC | Fuente: Vector ITC**](https://www.equisoft.com/resources/blockchain-a-disruptive-technology-with-the-power-to-revolutionize-financial-services-white-paper)
