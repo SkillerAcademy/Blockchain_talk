@@ -4,7 +4,11 @@
 
 ## EVENTOS
 
-[**Begin Blockchain**](https://www.eventbrite.es/e/entradas-begin-blockchain-424040365147?aff=ebdssbdestsearch&amp;keep_tld=1): 24 de noviembre, Day One La Caixa 3 Calle de Juan Bravo 28006 Madrid
+[**V Edición del Foro Blockchain & Activos Digitales**](https://es.beincrypto.com/confidencial-alista-v-edicion-foro-blockchain-activos-digitales-madrid/): 22 de noviembre, en las instalaciones de Fundación Telefónica.
+
+[**Begin Blockchain**](https://www.eventbrite.es/e/entradas-begin-blockchain-424040365147?aff=ebdssbdestsearch&amp;keep_tld=1): 24 de noviembre, Day One La Caixa 3 Calle de Juan Bravo 28006 Madrid.
+
+[**The Blockchain Festival of Europe**](https://nextblockexpo.com/): 23 y 24 de noviembre, Berlín - Alemania. Los grandes líderes, inversores y expertos de la industria blockchain se reunirán en el Blockchain Festival of Europe para definir el futuro de Web3.
 
 ## WEBS RECOMENDADAS
 
