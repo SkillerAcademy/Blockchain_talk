@@ -1,14 +1,16 @@
 ## CURSOS
 
-[**Curso Metaverso, Blockchain y NFT en Marketing**](https://skiller.education/curso-de-metaverso-blockchain-nft/): próxima edición 22 de noviembre de 2022.
+[**Curso Metaverso, Blockchain y NFT en Marketing**](https://skiller.education/curso-de-metaverso-blockchain-nft/): próxima edición marzo de 2023.
 
 ## EVENTOS
 
-[**V Edición del Foro Blockchain & Activos Digitales**](https://es.beincrypto.com/confidencial-alista-v-edicion-foro-blockchain-activos-digitales-madrid/): 22 de noviembre, en las instalaciones de Fundación Telefónica.
+[**Convención Europea de Blockchain 2023**](https://eblockchainconvention.com/): el evento de blockchain y criptomoneda más influyente de Europa vuelve a Barcelona. Del 15 al 17 de febrero en el Hyatt Regency Barcelona Tower.
 
 [**Begin Blockchain**](https://www.eventbrite.es/e/entradas-begin-blockchain-424040365147?aff=ebdssbdestsearch&amp;keep_tld=1): 24 de noviembre, Day One La Caixa 3 Calle de Juan Bravo 28006 Madrid.
 
 [**The Blockchain Festival of Europe**](https://nextblockexpo.com/): 23 y 24 de noviembre, Berlín - Alemania. Los grandes líderes, inversores y expertos de la industria blockchain se reunirán en el Blockchain Festival of Europe para definir el futuro de Web3.
+
+[**V Edición del Foro Blockchain & Activos Digitales**](https://es.beincrypto.com/confidencial-alista-v-edicion-foro-blockchain-activos-digitales-madrid/): 22 de noviembre, en las instalaciones de Fundación Telefónica.
 
 ## WEBS RECOMENDADAS
 
@@ -19,6 +21,8 @@
 [**Cripto Noticias**](https://www.criptonoticias.com/)
 
 ## ARTÍCULOS DE INTERÉS
+
+[**Skiller Academy trabaja en la elaboración del primer Mapa de Blockchain de España**](https://www.europapress.es/comunicados/tic-00911/noticia-comunicado-skiller-academy-trabaja-elaboracion-primer-mapa-blockchain-espana-20221201105629.html)
 
 [**¿Qué es la tecnología blockchain?**](https://www.inboundcycle.com/blog-de-inbound-marketing/blockchain-que-es-y-para-que-sirve)
 
