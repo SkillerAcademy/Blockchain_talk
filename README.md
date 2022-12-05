@@ -65,3 +65,12 @@
 [**What is blockchain (Inglés) (Artículo) autor Deloitte Venezuela | Fuente: Deloitte Venezuela**](https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/Innovation/deloitte-uk-what-is-blockchain-2016.pdf)
 
 [**Blockchain – a brief overview (Inglés) (Presentación) autor Dr Cathy Mulligan | Fuente: Na.eventscloud**](https://na.eventscloud.com/file_uploads/b4d722450d854c8b9fdaf14823c49a0c_MULLIGAN_Blockchain-brief-overview.pdf)
+
+[**Blockchain Basics: A Non-Technical Introduction in 25 Steps de Daniel Drescher**](https://www.amazon.es/Blockchain-Basics-Non-Technical-Introduction-Steps/dp/1484226038?tag=insiderpickss-21&ga=insiderpicks)
+
+[**Blockchain: la revolución industrial de Internet de Alexander Preukschat**](https://www.amazon.es/Blockchain-revoluci%C3%B3n-industrial-internet-colecci%C3%B3n/dp/849875447X/ref=sr_1_1?hvadid=80745417274240&hvbmt=bp&hvdev=c&hvqmt=p&keywords=blockchain+la+revoluci%C3%B3n+industrial+de+internet&qid=1669719021&qu=eyJxc2MiOiIwLjY5IiwicXNhIjoiMC4zMCIsInFzcCI6IjAuMjkifQ%3D%3D&sr=8-1)
+
+[**La Revolución del Blockchain de Don y Alex Tapscott**](https://s3-sa-east-1.amazonaws.com/asdisal/wp-content/uploads/2019/06/07201007/2016-La-Revolucio%CC%81n-Blockchain-Don-Tapscott.pdf)
+
+[**La tecnología Blockchain en los negocios de William Mougayar**](https://www.amazon.es/tecnolog%C3%ADa-Blockchain-los-negocios-Perspectivas/dp/8441539758)
+
